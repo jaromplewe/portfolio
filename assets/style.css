@@ -26,6 +26,9 @@ img {
 .solid {
     opacity: 100%;
 }
+.left-cover {
+    border-top: white 20px;
+}
 
 /* media queries */
 
