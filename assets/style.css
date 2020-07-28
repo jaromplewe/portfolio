@@ -27,13 +27,15 @@ img {
     opacity: 100%;
 }
 .left-cover {
-    border-top: white solid 50px;
+    border-top: rgb(245, 245, 245) solid 80px;
     border-right: solid transparent 20px;
     height: 0px;
-    width: 90%;
-    z-index: 1;
+    width: 50%;
     margin-top: -45px;
-
+    margin-left: -50px;
+}
+.traveling {
+    line-height: 8px;
 }
 
 /* media queries */
