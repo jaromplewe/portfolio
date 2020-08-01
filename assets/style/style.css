@@ -38,12 +38,3 @@ img {
 .traveling {
     line-height: 8px;
 }
-
-/* media queries */
-
-/* xs */
-@media screen and (min-width: 576) {
-    .left {
-        text-align: left;
-    }   
-}
