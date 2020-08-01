@@ -25,13 +25,16 @@ Contact me page at md sizing:
 ![](assets/screenshots/contact-md.png)
 
 About me page at xs sizing:
+
 ![](assets/screenshots/index-xs(1).png)
 ![](assets/screenshots/index-xs(2).png)
 
 Portfolio page at xs sizing:
+
 ![](assets/screenshots/portfolio-xs.png)
 
 Contact me page at xs sizing:
+
 ![](assets/screenshots/contact-xs.png)
 
 
