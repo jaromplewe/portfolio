@@ -43,3 +43,8 @@ img {
     transition: ease .75s;
     width: 98%;
 }
+
+.fa-github-square {
+    color: black;
+    text-decoration: none;
+}
