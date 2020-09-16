@@ -38,3 +38,8 @@ img {
 .traveling {
     line-height: 8px;
 }
+
+.project-img:hover {
+    transition: ease .75s;
+    width: 98%;
+}
